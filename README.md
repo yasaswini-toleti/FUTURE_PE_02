@@ -50,7 +50,7 @@ FUTURE_PE_02
 
 │ ├── repository_structure.png
 
-│ └── mamaearth_poster.png
+│ └── mamaearth_poster.jpeg
 
 └── README.md
 
@@ -85,7 +85,7 @@ FUTURE_PE_02
 
 ## Product Poster
 
-![Mamaearth Poster](visuals/mamaearth_poster.png)
+![Mamaearth Poster](visuals/mamaearth_poster.jpeg)
 
 ## Author
 
