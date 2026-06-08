@@ -1,0 +1,6 @@
+Generate 10 CTA lines for a skincare product.
+
+Requirements:
+- Short
+- Action-oriented
+- Suitable for social media ads
