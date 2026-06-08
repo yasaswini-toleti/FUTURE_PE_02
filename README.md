@@ -62,7 +62,8 @@ FUTURE_PE_02/
 │   ├── hooks_output.png
 │   ├── instagram_ad_output.png
 │   ├── repository_structure.png
-│   └── mamaearth_poster.jpeg
+│   ├── mamaearth_poster.jpeg
+│   └── mamaearth-instagram-ad.jpeg
 │
 └── README.md
 ```
@@ -113,7 +114,7 @@ Get ready to reveal your natural glow every day! ✨
 
 ## Instagram Ad Output
 
-![Instagram Ad](visuals/instagram_ad_output.png)
+![Instagram Ad](visuals/mamaearth-instagram-ad.jpeg)
 
 ---
 
